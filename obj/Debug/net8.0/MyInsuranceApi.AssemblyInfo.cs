@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MyInsuranceApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a53e48dc8f3cd3a785495544a8f4c4d0bfee2962")]
 [assembly: System.Reflection.AssemblyProductAttribute("MyInsuranceApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MyInsuranceApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
